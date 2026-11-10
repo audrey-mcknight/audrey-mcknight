@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Audrey McKnight">
-  <rect width="1000" height="240" rx="12" fill="#15130f"/>
-  <path d="M40 36H960" stroke="#39332a"/>
-  <g fill="#f6f1e7" font-family="Georgia,serif" font-size="68">
-    <text x="48" y="125">Audrey <tspan fill="#f4b674" font-style="italic">McKnight</tspan></text>
-  </g>
-  <g fill="#b8afa2" font-family="monospace" font-size="16">
-    <text x="50" y="179">NYU / CS + PHILOSOPHY</text>
-    <text x="850" y="179">=^.^=</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Audrey McKnight with a pink SWAG sticker">
+<rect width="1200" height="320" fill="#050505"/>
+<text x="38" y="156" font-family="Impact,Arial Narrow,sans-serif" font-size="154" fill="#ffcae0" textLength="700" lengthAdjust="spacingAndGlyphs">AUDREY</text>
+<text x="43" y="278" font-family="Impact,Arial Narrow,sans-serif" font-size="133" fill="#ffcae0" textLength="700" lengthAdjust="spacingAndGlyphs">McKNIGHT</text>
+<g transform="translate(928 158) rotate(-12)">
+<rect x="-162" y="-103" width="324" height="206" fill="#ffcae0"/>
+<text x="0" y="51" text-anchor="middle" font-family="Impact,Arial Narrow,sans-serif" font-size="132" fill="#050505" textLength="290" lengthAdjust="spacingAndGlyphs">#SWAG</text>
+</g>
 </svg>
