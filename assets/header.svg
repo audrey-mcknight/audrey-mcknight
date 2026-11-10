@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Audrey McKnight">
+  <rect width="1000" height="240" rx="12" fill="#15130f"/>
+  <path d="M40 36H960" stroke="#39332a"/>
+  <g fill="#f6f1e7" font-family="Georgia,serif" font-size="68">
+    <text x="48" y="125">Audrey <tspan fill="#f4b674" font-style="italic">McKnight</tspan></text>
+  </g>
+  <g fill="#b8afa2" font-family="monospace" font-size="16">
+    <text x="50" y="179">NYU / CS + PHILOSOPHY</text>
+    <text x="850" y="179">=^.^=</text>
+  </g>
+</svg>
